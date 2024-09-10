@@ -51,10 +51,9 @@
     - Output the total savings/investment potential to the terminal.
 
 ### How it works
-The script will output the total roundup amount for transactions in the past 30 days.
 
 1. The script reads the YNAB API key from `key.txt`.
-2. It fetches transactions from the last 30 days using the YNAB API.
+2. It fetches transactions from the last 30 days (or user specified amount) using the YNAB API.
 3. For each transaction that is a debit (negative amount) and not a transfer:
    - It calculates the difference between the transaction amount and its rounded-up value.
    - This difference is added to the total roundup amount.
@@ -79,7 +78,7 @@ Contributions, issues, and feature requests are welcome. Feel free to check [iss
 
 ## Disclaimer
 
-**YNAB RoundUp Savings & Invest** is a tool designed to assist with rounding up YNAB transactions to the nearest dollar for saving or investing purposes. While the tool aims to provide accurate and useful information, the following disclaimers apply:
+**YNAB Round Up** is a tool designed to assist with rounding up YNAB transactions to the nearest dollar for saving or investing purposes. While the tool aims to provide accurate and useful information, the following disclaimers apply:
 
 1. **Accuracy of Data**: The tool relies on data retrieved from the YNAB API. While efforts are made to ensure the accuracy of the data processed, there is no guarantee that the information will be completely accurate or up-to-date. Always verify the results independently.
 
