@@ -1,6 +1,6 @@
 ## Disclaimer
 
-**YNAB RoundUp Savings & Invest** is a tool designed to assist with rounding up YNAB transactions to the nearest dollar for saving or investing purposes. While the tool aims to provide accurate and useful information, the following disclaimers apply:
+**YNAB Round Up** is a tool designed to assist with rounding up YNAB transactions to the nearest dollar for saving or investing purposes. While the tool aims to provide accurate and useful information, the following disclaimers apply:
 
 1. **Accuracy of Data**: The tool relies on data retrieved from the YNAB API. While efforts are made to ensure the accuracy of the data processed, there is no guarantee that the information will be completely accurate or up-to-date. Always verify the results independently.
 
