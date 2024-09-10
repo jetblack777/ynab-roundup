@@ -1,4 +1,4 @@
-# YNAB RoundUp Savings & Invest
+# YNAB Round Up Savings & Invest
 
 **YNAB RoundUp Savings & Invest** is a Python tool designed to help you save or invest your spare change by rounding up your transactions in YNAB (You Need A Budget) to the nearest dollar. It calculates the difference between each transaction and the next dollar, allowing you to easily boost your savings or investments.
 
@@ -78,7 +78,7 @@ Contributions, issues, and feature requests are welcome. Feel free to check [iss
 
 ## Disclaimer
 
-**YNAB Round Up** is a tool designed to assist with rounding up YNAB transactions to the nearest dollar for saving or investing purposes. While the tool aims to provide accurate and useful information, the following disclaimers apply:
+**YNAB Round Up Savings & Invest** is a tool designed to assist with rounding up YNAB transactions to the nearest dollar for saving or investing purposes. While the tool aims to provide accurate and useful information, the following disclaimers apply:
 
 1. **Accuracy of Data**: The tool relies on data retrieved from the YNAB API. While efforts are made to ensure the accuracy of the data processed, there is no guarantee that the information will be completely accurate or up-to-date. Always verify the results independently.
 
